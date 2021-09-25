@@ -1,0 +1,7 @@
+2021-09-25 10:34:57,523 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:50] Starting LoggerTest on zhaohankaideMBP with PID 29995 (started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-09-25 10:34:57,525 INFO [main] c.n.c.LoggerTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-09-25 10:35:00,888 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-09-25 10:35:01,243 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-09-25 10:35:01,552 INFO [main] c.n.c.LoggerTest [StartupInfoLogger.java:59] Started LoggerTest in 4.915 seconds (JVM running for 7.05)
+2021-09-25 10:35:01,791 INFO [main] c.n.c.LoggerTest [LoggerTest.java:23] info log
+2021-09-25 10:35:01,807 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'

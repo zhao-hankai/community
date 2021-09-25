@@ -1,0 +1,11 @@
+2021-09-25 10:26:22.948  INFO 25853 --- [main] com.nowcoder.community.LoggerTest        : Starting LoggerTest on zhaohankaideMBP with PID 25853 (started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-09-25 10:26:22.951 DEBUG 25853 --- [main] com.nowcoder.community.LoggerTest        : Running with Spring Boot v2.1.5.RELEASE, Spring v5.1.7.RELEASE
+2021-09-25 10:26:22.953  INFO 25853 --- [main] com.nowcoder.community.LoggerTest        : No active profile set, falling back to default profiles: default
+2021-09-25 10:26:26.458  INFO 25853 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-09-25 10:26:26.988  INFO 25853 --- [main] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-09-25 10:26:27.366  INFO 25853 --- [main] com.nowcoder.community.LoggerTest        : Started LoggerTest in 5.22 seconds (JVM running for 6.532)
+2021-09-25 10:26:27.607 DEBUG 25853 --- [main] com.nowcoder.community.LoggerTest        : debug log
+2021-09-25 10:26:27.607  INFO 25853 --- [main] com.nowcoder.community.LoggerTest        : info log
+2021-09-25 10:26:27.609  WARN 25853 --- [main] com.nowcoder.community.LoggerTest        : warn log
+2021-09-25 10:26:27.609 ERROR 25853 --- [main] com.nowcoder.community.LoggerTest        : error log
+2021-09-25 10:26:27.628  INFO 25853 --- [Thread-3] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
