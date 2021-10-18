@@ -1,0 +1,2 @@
+2021-09-25 10:35:01,791 WARN [main] c.n.c.LoggerTest [LoggerTest.java:24] warn log
+2021-09-25 23:43:19,814 WARN [main] o.s.w.c.s.GenericWebApplicationContext [AbstractApplicationContext.java:557] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'mailClient': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'spring.mail.usernam' in value "${spring.mail.usernam}"

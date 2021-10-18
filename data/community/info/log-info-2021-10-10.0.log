@@ -1,0 +1,37 @@
+2021-10-10 22:54:04,270 INFO [main] c.n.c.MapperTest [StartupInfoLogger.java:50] Starting MapperTest on zhaohankaideMBP with PID 33519 (started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-10 22:54:04,280 INFO [main] c.n.c.MapperTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-10 22:54:07,199 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-10 22:54:07,486 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-10 22:54:07,818 INFO [main] c.n.c.MapperTest [StartupInfoLogger.java:59] Started MapperTest in 4.292 seconds (JVM running for 5.886)
+2021-10-10 22:54:08,081 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-10 22:54:09,263 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-10 22:54:57,682 INFO [main] c.n.c.MapperTest [StartupInfoLogger.java:50] Starting MapperTest on zhaohankaideMBP with PID 34232 (started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-10 22:54:57,686 INFO [main] c.n.c.MapperTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-10 22:55:01,068 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-10 22:55:01,324 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-10 22:55:01,616 INFO [main] c.n.c.MapperTest [StartupInfoLogger.java:59] Started MapperTest in 4.708 seconds (JVM running for 5.989)
+2021-10-10 22:55:01,916 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-10 22:55:02,199 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-10 22:55:02,288 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-10 22:55:02,290 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-10 22:55:02,303 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-10 22:57:34,175 INFO [main] c.n.c.MapperTest [StartupInfoLogger.java:50] Starting MapperTest on zhaohankaideMBP with PID 35577 (started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-10 22:57:34,176 INFO [main] c.n.c.MapperTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-10 22:57:36,929 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-10 22:57:37,163 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-10 22:57:37,461 INFO [main] c.n.c.MapperTest [StartupInfoLogger.java:59] Started MapperTest in 3.966 seconds (JVM running for 5.234)
+2021-10-10 22:57:37,664 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-10 22:57:37,852 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-10 22:57:37,932 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-10 22:57:37,936 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-10 22:57:37,948 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-10 23:00:30,302 INFO [main] c.n.c.MapperTest [StartupInfoLogger.java:50] Starting MapperTest on zhaohankaideMBP with PID 36998 (started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-10 23:00:30,304 INFO [main] c.n.c.MapperTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-10 23:00:34,452 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-10 23:00:34,800 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-10 23:00:35,240 INFO [main] c.n.c.MapperTest [StartupInfoLogger.java:59] Started MapperTest in 5.846 seconds (JVM running for 7.344)
+2021-10-10 23:00:35,575 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-10 23:00:35,888 INFO [main] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-10 23:00:36,152 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-10 23:00:36,156 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-10 23:00:36,173 INFO [Thread-3] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.

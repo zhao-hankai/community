@@ -1,0 +1,12 @@
+2021-09-26 00:10:32,405 INFO [main] c.n.c.MailTest [StartupInfoLogger.java:50] Starting MailTest on zhaohankaideMBP with PID 907 (started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-09-26 00:10:32,427 INFO [main] c.n.c.MailTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-09-26 00:10:37,359 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-09-26 00:10:37,909 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-09-26 00:10:38,438 INFO [main] c.n.c.MailTest [StartupInfoLogger.java:59] Started MailTest in 7.315 seconds (JVM running for 9.536)
+2021-09-26 00:10:43,872 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-09-26 00:11:07,413 INFO [main] c.n.c.MailTest [StartupInfoLogger.java:50] Starting MailTest on zhaohankaideMBP with PID 1250 (started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-09-26 00:11:07,415 INFO [main] c.n.c.MailTest [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-09-26 00:11:11,711 INFO [main] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-09-26 00:11:12,412 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-09-26 00:11:13,123 INFO [main] c.n.c.MailTest [StartupInfoLogger.java:59] Started MailTest in 6.601 seconds (JVM running for 8.022)
+2021-09-26 00:11:17,174 INFO [Thread-3] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'

@@ -1,0 +1,335 @@
+2021-10-03 14:47:15,108 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 55439 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 14:47:15,117 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 14:47:15,176 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 14:47:15,176 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 14:47:16,765 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 14:47:16,784 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 14:47:16,794 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 14:47:16,795 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 14:47:16,892 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 14:47:16,893 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1717 ms
+2021-10-03 14:47:17,606 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 14:47:17,724 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 14:47:17,863 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 14:47:17,898 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 14:47:17,940 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 14:47:17,945 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.472 seconds (JVM running for 5.104)
+2021-10-03 14:47:49,456 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 14:47:49,456 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 14:47:49,466 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 10 ms
+2021-10-03 14:47:49,569 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 14:47:49,925 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 15:25:16,587 INFO [Thread-15] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:25:16,588 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 15:25:16,591 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 15:25:21,619 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 73808 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 15:25:21,623 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 15:25:21,669 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 15:25:21,670 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 15:25:23,002 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 15:25:23,015 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:25:23,023 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 15:25:23,024 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 15:25:23,096 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 15:25:23,096 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1426 ms
+2021-10-03 15:25:23,685 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:25:23,801 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 15:25:23,908 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 15:25:23,937 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:25:23,972 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 15:25:23,976 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 2.971 seconds (JVM running for 3.909)
+2021-10-03 15:25:32,846 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 15:25:32,846 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 15:25:32,852 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 6 ms
+2021-10-03 15:25:42,962 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 15:25:43,105 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 15:27:17,941 INFO [Thread-15] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:27:17,942 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 15:27:17,951 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 15:27:21,585 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 74783 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 15:27:21,592 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 15:27:21,702 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 15:27:21,703 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 15:27:23,266 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 15:27:23,294 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:27:23,305 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 15:27:23,306 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 15:27:23,396 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 15:27:23,396 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1693 ms
+2021-10-03 15:27:23,997 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:27:24,106 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 15:27:24,233 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 15:27:24,262 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:27:24,297 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 15:27:24,300 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.19 seconds (JVM running for 4.056)
+2021-10-03 15:27:25,125 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 15:27:25,126 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 15:27:25,133 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 7 ms
+2021-10-03 15:27:36,287 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 15:27:36,431 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 15:28:23,865 INFO [Thread-14] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:28:23,866 INFO [Thread-14] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 15:28:23,874 INFO [Thread-14] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 15:28:26,374 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 75305 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 15:28:26,378 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 15:28:26,426 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 15:28:26,426 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 15:28:27,814 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 15:28:27,826 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:28:27,835 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 15:28:27,835 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 15:28:27,905 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 15:28:27,906 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1478 ms
+2021-10-03 15:28:28,498 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:28:28,617 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 15:28:28,734 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 15:28:28,768 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:28:28,807 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 15:28:28,811 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.055 seconds (JVM running for 4.231)
+2021-10-03 15:28:34,359 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 15:28:34,359 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 15:28:34,366 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 7 ms
+2021-10-03 15:28:41,138 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 15:28:41,302 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 15:31:20,467 INFO [Thread-15] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:31:20,468 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 15:31:20,474 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 15:31:33,827 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 76827 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 15:31:33,831 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 15:31:33,881 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 15:31:33,881 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 15:31:35,319 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 15:31:35,332 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:31:35,340 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 15:31:35,340 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 15:31:35,410 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 15:31:35,410 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1528 ms
+2021-10-03 15:31:35,972 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:31:36,071 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 15:31:36,178 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 15:31:36,210 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:31:36,245 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 15:31:36,249 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.2 seconds (JVM running for 3.96)
+2021-10-03 15:31:41,647 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 15:31:41,647 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 15:31:41,654 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 7 ms
+2021-10-03 15:31:41,711 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 15:31:41,828 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 15:34:55,071 INFO [Thread-15] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:34:55,072 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 15:34:55,078 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 15:34:58,081 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 78490 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 15:34:58,086 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 15:34:58,142 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 15:34:58,142 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 15:34:59,536 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 15:34:59,551 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:34:59,561 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 15:34:59,561 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 15:34:59,640 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 15:34:59,640 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1498 ms
+2021-10-03 15:35:00,242 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:35:00,350 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 15:35:00,456 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 15:35:00,488 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:35:00,523 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 15:35:00,528 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 2.962 seconds (JVM running for 3.834)
+2021-10-03 15:35:07,986 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 15:35:07,986 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 15:35:07,992 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 6 ms
+2021-10-03 15:35:27,390 INFO [Thread-14] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:35:30,490 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 78749 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 15:35:30,493 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 15:35:30,539 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 15:35:30,540 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 15:35:32,708 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 15:35:32,722 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:35:32,732 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 15:35:32,733 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 15:35:32,858 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 15:35:32,859 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 2319 ms
+2021-10-03 15:35:33,835 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:35:33,935 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 15:35:34,041 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 15:35:34,073 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:35:34,109 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 15:35:34,113 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 4.263 seconds (JVM running for 5.062)
+2021-10-03 15:35:40,836 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 15:35:40,837 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 15:35:40,844 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 7 ms
+2021-10-03 15:36:21,385 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 15:36:21,533 INFO [http-nio-8080-exec-1] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 15:39:18,776 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 80607 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 15:39:18,782 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 15:39:18,845 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 15:39:18,845 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 15:39:20,312 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 15:39:20,325 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:39:20,334 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 15:39:20,335 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 15:39:20,406 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 15:39:20,407 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1562 ms
+2021-10-03 15:39:20,997 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 15:39:21,129 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 15:39:21,314 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:39:21,349 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Pausing ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:39:21,349 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Stopping service [Tomcat]
+2021-10-03 15:39:21,357 INFO [restartedMain] o.a.c.u.LifecycleBase [DirectJDKLog.java:173] The stop() method was called on component [StandardServer[-1]] after stop() had already been called. The second call will be ignored.
+2021-10-03 15:39:21,358 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Stopping ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:39:21,359 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Destroying ProtocolHandler ["http-nio-8080"]
+2021-10-03 15:39:21,363 INFO [restartedMain] o.s.b.a.l.ConditionEvaluationReportLoggingListener [ConditionEvaluationReportLoggingListener.java:142] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+2021-10-03 15:39:21,375 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 16:44:21,323 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 10764 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 16:44:21,332 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 16:44:21,408 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 16:44:21,408 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 16:44:23,209 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 16:44:23,227 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 16:44:23,237 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 16:44:23,238 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 16:44:23,329 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 16:44:23,329 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1921 ms
+2021-10-03 16:44:24,042 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 16:44:24,164 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 16:44:24,292 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 16:44:24,322 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 16:44:24,360 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 16:44:24,365 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.844 seconds (JVM running for 5.643)
+2021-10-03 16:44:59,619 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 16:44:59,619 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 16:44:59,630 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 11 ms
+2021-10-03 16:45:03,672 INFO [http-nio-8080-exec-6] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 16:45:03,851 INFO [http-nio-8080-exec-6] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 16:49:47,049 INFO [Thread-15] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 16:49:47,054 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 16:49:47,060 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 16:49:51,662 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 13452 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 16:49:51,665 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 16:49:51,707 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 16:49:51,707 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 16:49:53,183 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 16:49:53,198 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 16:49:53,207 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 16:49:53,208 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 16:49:53,287 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 16:49:53,288 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1581 ms
+2021-10-03 16:49:53,914 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 16:49:54,040 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 16:49:54,152 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 16:49:54,180 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 16:49:54,216 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 16:49:54,220 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.091 seconds (JVM running for 4.285)
+2021-10-03 16:49:59,657 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 16:49:59,658 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 16:49:59,666 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 8 ms
+2021-10-03 16:55:16,351 INFO [http-nio-8080-exec-5] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 16:55:16,492 INFO [http-nio-8080-exec-5] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 16:56:24,564 INFO [Thread-15] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 16:56:24,564 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 16:56:24,570 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 16:56:28,564 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 16742 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 16:56:28,583 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 16:56:28,654 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 16:56:28,654 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 16:56:30,032 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 16:56:30,047 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 16:56:30,057 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 16:56:30,057 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 16:56:30,139 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 16:56:30,139 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1485 ms
+2021-10-03 16:56:30,855 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 16:56:30,973 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 16:56:31,094 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 16:56:31,125 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 16:56:31,161 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 16:56:31,166 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.262 seconds (JVM running for 4.282)
+2021-10-03 16:56:54,170 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 16:56:54,171 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 16:56:54,179 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 8 ms
+2021-10-03 17:00:00,170 INFO [http-nio-8080-exec-5] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 17:00:00,314 INFO [http-nio-8080-exec-5] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 17:03:56,622 INFO [Thread-15] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 17:03:56,624 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 17:03:56,634 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 17:03:59,482 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 20364 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 17:03:59,485 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 17:03:59,537 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 17:03:59,537 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 17:04:01,013 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 17:04:01,030 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 17:04:01,040 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 17:04:01,041 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 17:04:01,128 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 17:04:01,129 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1591 ms
+2021-10-03 17:04:01,776 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 17:04:01,882 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 17:04:01,995 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 17:04:02,026 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 17:04:02,061 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 17:04:02,066 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.116 seconds (JVM running for 4.57)
+2021-10-03 17:04:13,588 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 17:04:13,588 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 17:04:13,601 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 12 ms
+2021-10-03 17:04:28,689 INFO [Thread-16] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 17:04:32,025 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 20640 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 17:04:32,063 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 17:04:32,173 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 17:04:32,174 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 17:04:35,432 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 17:04:35,475 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 17:04:35,486 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 17:04:35,487 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 17:04:35,607 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 17:04:35,608 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 3433 ms
+2021-10-03 17:04:36,748 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 17:04:36,904 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 17:04:37,140 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 17:04:37,184 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 17:04:37,227 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 17:04:37,231 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 5.787 seconds (JVM running for 6.753)
+2021-10-03 17:04:43,956 INFO [Thread-20] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 17:04:46,788 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 20764 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 17:04:46,791 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 17:04:46,848 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 17:04:46,848 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 17:04:48,265 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 17:04:48,278 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 17:04:48,287 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 17:04:48,288 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 17:04:48,370 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 17:04:48,370 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1521 ms
+2021-10-03 17:04:48,971 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 17:04:49,073 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 17:04:49,187 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 17:04:49,219 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 17:04:49,260 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 17:04:49,265 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.068 seconds (JVM running for 4.378)
+2021-10-03 17:05:06,999 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 17:05:07,000 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 17:05:07,007 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 7 ms
+2021-10-03 17:05:14,243 INFO [http-nio-8080-exec-6] c.z.h.HikariDataSource [HikariDataSource.java:110] HikariPool-1 - Starting...
+2021-10-03 17:05:14,404 INFO [http-nio-8080-exec-6] c.z.h.HikariDataSource [HikariDataSource.java:123] HikariPool-1 - Start completed.
+2021-10-03 17:13:44,478 INFO [Thread-15] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:208] Shutting down ExecutorService 'applicationTaskExecutor'
+2021-10-03 17:13:44,480 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:350] HikariPool-1 - Shutdown initiated...
+2021-10-03 17:13:44,487 INFO [Thread-15] c.z.h.HikariDataSource [HikariDataSource.java:352] HikariPool-1 - Shutdown completed.
+2021-10-03 17:13:49,056 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:50] Starting CommunityApplication on zhaohankaideMacBook-Pro.local with PID 25127 (/Users/zhaohankai/Desktop/JAVA/project/community/target/classes started by zhaohankai in /Users/zhaohankai/Desktop/JAVA/project/community)
+2021-10-03 17:13:49,060 INFO [restartedMain] c.n.c.CommunityApplication [SpringApplication.java:675] No active profile set, falling back to default profiles: default
+2021-10-03 17:13:49,109 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-10-03 17:13:49,109 INFO [restartedMain] o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor [DeferredLog.java:227] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-10-03 17:13:50,523 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:90] Tomcat initialized with port(s): 8080 (http)
+2021-10-03 17:13:50,539 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Initializing ProtocolHandler ["http-nio-8080"]
+2021-10-03 17:13:50,547 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2021-10-03 17:13:50,548 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/9.0.19]
+2021-10-03 17:13:50,630 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2021-10-03 17:13:50,631 INFO [restartedMain] o.s.w.c.ContextLoader [ServletWebServerApplicationContext.java:296] Root WebApplicationContext: initialization completed in 1521 ms
+2021-10-03 17:13:51,345 INFO [restartedMain] o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:171] Initializing ExecutorService 'applicationTaskExecutor'
+2021-10-03 17:13:51,462 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:61] Adding welcome page template: index
+2021-10-03 17:13:51,587 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:57] LiveReload server is running on port 35729
+2021-10-03 17:13:51,618 INFO [restartedMain] o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] Starting ProtocolHandler ["http-nio-8080"]
+2021-10-03 17:13:51,657 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:204] Tomcat started on port(s): 8080 (http) with context path '/community'
+2021-10-03 17:13:51,661 INFO [restartedMain] c.n.c.CommunityApplication [StartupInfoLogger.java:59] Started CommunityApplication in 3.287 seconds (JVM running for 4.252)
+2021-10-03 17:14:06,955 INFO [http-nio-8080-exec-1] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-10-03 17:14:06,956 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:524] Initializing Servlet 'dispatcherServlet'
+2021-10-03 17:14:06,965 INFO [http-nio-8080-exec-1] o.s.w.s.DispatcherServlet [FrameworkServlet.java:546] Completed initialization in 9 ms
