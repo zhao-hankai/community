@@ -14,7 +14,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-@Component
+//@Component
 //@Aspect
 public class ServiceLogAspect {
 
